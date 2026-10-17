@@ -1,0 +1,35 @@
+{
+  "project_id": "P006",
+  "github_repository_id": 1415157817,
+  "title_en": "Sheep Welcome Gate",
+  "title_zh": "祥雲迎賓門",
+  "category": "lantern",
+  "topics": [
+    "light-show",
+    "simulation"
+  ],
+  "repository_full_name": "jackeytw886/2026sheepgate",
+  "repository_url": "https://github.com/jackeytw886/2026sheepgate",
+  "default_branch": "main",
+  "visibility": "public",
+  "aliases": [],
+  "suggested_name": "lantern-sheep-gate",
+  "repository_status": "connected",
+  "content_state": "source-present",
+  "lifecycle": "unknown",
+  "pages_enabled": true,
+  "deployment_url": "https://jackeytw886.github.io/2026sheepgate",
+  "event_year": null,
+  "entry_paths": [
+    "index.html"
+  ],
+  "related_project_ids": [
+    "P005"
+  ],
+  "handoff_path": "HANDOFF.md",
+  "verification_source": "github-tree-and-readme",
+  "verified_at": "2026-10-17T20:41:56+08:00",
+  "source_baseline_sha": "3438aee5bb9a1a74ea5457043e2c7c70e71e0a53",
+  "last_runtime_verified_sha": null,
+  "naming_status": "preserved-for-pages"
+}
